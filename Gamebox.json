@@ -1,0 +1,14 @@
+{
+	"id": "gamebox",
+	"name": "Gamebox",
+	"display_name": "Gamebox",
+	"author": ["TheBrokenFox113","Axyraandas"],
+	"description": "A balatro mod based on adding mechanics, jokers and consumables based on card and board games",
+    "prefix": "gmbx",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "5ee081",
+	"badge_text_colour": "4F6367",
+	"version": "~0.0.1",
+	"dependencies": ["Steamodded (>=1.*)", "Lovely (>=0.6)"]
+}
