@@ -1,0 +1,1 @@
+assert(SMODS.load_file('jokers/chess.lua', SMODS.current_mod.id))()
